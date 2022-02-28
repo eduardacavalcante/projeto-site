@@ -6,11 +6,5 @@ function Home(){
   
 }
 
-function Lov(){
-   
-}
-
-
-
 
 export default Home
