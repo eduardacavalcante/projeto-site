@@ -1,9 +1,9 @@
 import { useState } from  'react';
 
 function Home(){
-  return <div>Passando so pra dizer que eu te amo, ta?</div>
+  return <div>Home</div>
 }
 
-alert("Oi, amor!");
+alert("Hey!");
 
 export default Home
